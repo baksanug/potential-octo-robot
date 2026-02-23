@@ -1,4 +1,4 @@
-# 2026 Core Trading Stack
+#2026 Core Trading Stack
 streamlit>=1.42.0
 yfinance>=1.2.0
 pandas>=2.2.0
